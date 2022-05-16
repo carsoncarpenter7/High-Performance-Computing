@@ -1,5 +1,6 @@
 ## Compile: 
 mpicc main.cpp
+
 mpirun --oversubscribe -n 8 ./a.out
 OR with enough pre-allocated slots: mpirun -n 8 ./a.out
 
