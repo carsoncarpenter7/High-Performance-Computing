@@ -12,3 +12,8 @@ Two transmissions (round trip) using non blocking communication
 
 
 Exercise 2. Modify the ring example given in class to calculate the execution time using MPI_Wtime of the transmission of the value 7 from process with rank 0 to process with rank 1, etc. until the value is received back at the process with rank 0. Use only blocking communication. Launch the execution of the program with a varied number of parallel processes (mpirun -n 10 ./a.out to launch the executable a.out for 10 processes) and write down the execution time of the ring example as follows:
+
+Ring with 4 nodes
+Ring with 8 nodes
+Ring with 10 nodes
+Ring with 12 nodes
