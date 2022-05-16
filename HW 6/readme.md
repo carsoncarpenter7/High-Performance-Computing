@@ -7,8 +7,10 @@ Exercise 2. Write a CUDA program that includes a host function to compute the sq
 
 **Exercise 1**:
 Compile with: nvcc matrix.cu
+
 Execute: ./a.out
 
 **Exercise 2**:
 Compile with: nvcc matrix1.cu
+
 Execute: ./a.out
