@@ -1,10 +1,10 @@
 Exercise 1. Write either a single program or two separate C/C++ programs that use(s) MPI blocking and non-blocking commands MPI_Send, MPI_Rcvd, MPI_Isend and MPI_Ircvd to exchange one float value between process with rank 0 and process with rank 1. Calculate the execution time using MPI_Wtime to compute the execution time and write it down in the table below as follows:
 
                                                                      
-A single transmission using blocking communication                  | Execution Time
-A single transmission using non blocking communication              | Execution Time
-Two transmissions (round trip) using blocking communication         | Execution Time
-Two transmissions (round trip) using non blocking communication     | Execution Time
+A single transmission using blocking communication                  | Execution Time\n
+A single transmission using non blocking communication              | Execution Time\n
+Two transmissions (round trip) using blocking communication         | Execution Time\n
+Two transmissions (round trip) using non blocking communication     | Execution Time\n
 
 
 
