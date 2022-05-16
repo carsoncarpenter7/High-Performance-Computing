@@ -2,7 +2,7 @@ Exercise 1. Write either a single program or two separate C/C++ programs that us
 
 
 
-                                                                    |  *Execution Time*
+                                                                    |  Execution Time
 A single transmission using blocking communication                  |
 A single transmission using non blocking communication              | 
 Two transmissions (round trip) using blocking communication         |
